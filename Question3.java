@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*This program will convert the time entered in seconds to 
 minutes*/ 
 
-public class Time {
+public class Question3 {
 	public static void main(String[] args){
 
 		Scanner input = new Scanner (System.in);

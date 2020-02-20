@@ -3,7 +3,7 @@ import java.util.Scanner;
 /* This program will ask the user for the temperature in Celsius 
 in the past 3 days and it will deliver the average of those 3 days*/
 
-public class Temperature {
+public class Question4 {
 	public static void main(String[] args){
 
 		Scanner input = new Scanner (System.in);

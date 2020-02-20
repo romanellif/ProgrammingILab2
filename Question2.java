@@ -5,7 +5,7 @@ weight in pounds and your height in feet. Then it will
 convert those values to kilograms(weight) and meters(height) and then 
 calculate your BMI */ 
 
-public class BMI {
+public class Question2 {
     public static void main(String[] args) {
 
 	    Scanner input = new Scanner (System.in);
